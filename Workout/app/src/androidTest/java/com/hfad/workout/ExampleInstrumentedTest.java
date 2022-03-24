@@ -1,4 +1,4 @@
-package com.iurchenko.workout;
+package com.hfad.workout;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.iurchenko.workout", appContext.getPackageName());
+        assertEquals("com.hfad.workout", appContext.getPackageName());
     }
 }

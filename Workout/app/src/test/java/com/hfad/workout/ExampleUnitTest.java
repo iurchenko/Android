@@ -1,4 +1,4 @@
-package com.iurchenko.workout;
+package com.hfad.workout;
 
 import org.junit.Test;
 
